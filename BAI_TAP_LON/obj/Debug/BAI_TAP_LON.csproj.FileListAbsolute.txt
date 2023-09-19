@@ -13,3 +13,4 @@ C:\Users\nguye\OneDrive\Desktop\Subjects\Lập Trình Trực Quan\BAI_TAP_LON\BA
 C:\Users\nguye\OneDrive\Desktop\Subjects\Lập Trình Trực Quan\BAI_TAP_LON\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.exe
 C:\Users\nguye\OneDrive\Desktop\Subjects\Lập Trình Trực Quan\BAI_TAP_LON\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.pdb
 C:\Users\nguye\OneDrive\Desktop\Subjects\Lập Trình Trực Quan\BAI_TAP_LON\BAI_TAP_LON\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\nguye\OneDrive\Desktop\Subjects\Lập Trình Trực Quan\BAI_TAP_LON\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.src.Views.Auth.ForgotPassword.resources

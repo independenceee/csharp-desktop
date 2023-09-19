@@ -16,5 +16,10 @@ namespace BAI_TAP_LON.src.Views.Auth
         {
             InitializeComponent();
         }
+
+        private void iconPictureBox1_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
     }
 }

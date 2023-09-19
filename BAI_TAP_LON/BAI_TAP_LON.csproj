@@ -62,7 +62,28 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="src\Constants\Level.cs" />
+    <Compile Include="src\Constants\Mail.cs" />
+    <Compile Include="src\Constants\Operation.cs" />
+    <Compile Include="src\Constants\Role.cs" />
+    <Compile Include="src\Constants\Status.cs" />
+    <Compile Include="src\Constants\Time.cs" />
+    <Compile Include="src\Constants\VoucherStatus.cs" />
+    <Compile Include="src\Constants\VoucherType.cs" />
     <Compile Include="src\Databases\Databases.cs" />
+    <Compile Include="src\DataTransferObjects\Bill.cs" />
+    <Compile Include="src\DataTransferObjects\Customer.cs" />
+    <Compile Include="src\DataTransferObjects\Genre.cs" />
+    <Compile Include="src\DataTransferObjects\Movie.cs" />
+    <Compile Include="src\DataTransferObjects\Room.cs" />
+    <Compile Include="src\DataTransferObjects\Seat.cs" />
+    <Compile Include="src\DataTransferObjects\SeatSetting.cs" />
+    <Compile Include="src\DataTransferObjects\ShowTime.cs" />
+    <Compile Include="src\DataTransferObjects\Staff.cs" />
+    <Compile Include="src\DataTransferObjects\Ticket.cs" />
+    <Compile Include="src\DataTransferObjects\Trouble.cs" />
+    <Compile Include="src\Helpers\Mail.cs" />
+    <Compile Include="src\Utils\Helpers.cs" />
     <Compile Include="src\Views\Admin\Customer\Customer.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -135,12 +156,6 @@
     <Compile Include="src\Views\Auth\Login.Designer.cs">
       <DependentUpon>Login.cs</DependentUpon>
     </Compile>
-    <Compile Include="src\Views\Auth\Register.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="src\Views\Auth\Register.Designer.cs">
-      <DependentUpon>Register.cs</DependentUpon>
-    </Compile>
     <Compile Include="src\Views\Auth\Role.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -156,6 +171,13 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="src\Views\Auth\ForgotPassword.resx">
+      <DependentUpon>ForgotPassword.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="src\Views\Auth\Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include=".env" />
     <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -172,10 +194,8 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="src\DataTransferObjects\" />
     <Folder Include="src\Models\" />
     <Folder Include="src\Services\" />
-    <Folder Include="src\Utils\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
