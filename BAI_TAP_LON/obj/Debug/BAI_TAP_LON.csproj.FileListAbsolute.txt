@@ -1,0 +1,197 @@
+D:\THIS_IS_DOCUMENTS_OK\HỌC KÌ 5\LapTrinhTrucQuan\New folder\csharp-desktop\BAI_TAP_LON\bin\Debug\BAI_TAP_LON.exe.config
+D:\THIS_IS_DOCUMENTS_OK\HỌC KÌ 5\LapTrinhTrucQuan\New folder\csharp-desktop\BAI_TAP_LON\bin\Debug\BAI_TAP_LON.exe
+D:\THIS_IS_DOCUMENTS_OK\HỌC KÌ 5\LapTrinhTrucQuan\New folder\csharp-desktop\BAI_TAP_LON\bin\Debug\BAI_TAP_LON.pdb
+D:\THIS_IS_DOCUMENTS_OK\HỌC KÌ 5\LapTrinhTrucQuan\New folder\csharp-desktop\BAI_TAP_LON\bin\Debug\Krypton.dll
+D:\THIS_IS_DOCUMENTS_OK\HỌC KÌ 5\LapTrinhTrucQuan\New folder\csharp-desktop\BAI_TAP_LON\bin\Debug\Krypton.Toolkit.dll
+D:\THIS_IS_DOCUMENTS_OK\HỌC KÌ 5\LapTrinhTrucQuan\New folder\csharp-desktop\BAI_TAP_LON\bin\Debug\Krypton.Toolkit.xml
+D:\THIS_IS_DOCUMENTS_OK\HỌC KÌ 5\LapTrinhTrucQuan\New folder\csharp-desktop\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.csproj.AssemblyReference.cache
+D:\THIS_IS_DOCUMENTS_OK\HỌC KÌ 5\LapTrinhTrucQuan\New folder\csharp-desktop\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.csproj.SuggestedBindingRedirects.cache
+D:\THIS_IS_DOCUMENTS_OK\HỌC KÌ 5\LapTrinhTrucQuan\New folder\csharp-desktop\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.Properties.Resources.resources
+D:\THIS_IS_DOCUMENTS_OK\HỌC KÌ 5\LapTrinhTrucQuan\New folder\csharp-desktop\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.csproj.GenerateResource.cache
+D:\THIS_IS_DOCUMENTS_OK\HỌC KÌ 5\LapTrinhTrucQuan\New folder\csharp-desktop\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.csproj.CoreCompileInputs.cache
+D:\THIS_IS_DOCUMENTS_OK\HỌC KÌ 5\LapTrinhTrucQuan\New folder\csharp-desktop\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.csproj.CopyComplete
+D:\THIS_IS_DOCUMENTS_OK\HỌC KÌ 5\LapTrinhTrucQuan\New folder\csharp-desktop\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.exe
+D:\THIS_IS_DOCUMENTS_OK\HỌC KÌ 5\LapTrinhTrucQuan\New folder\csharp-desktop\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.pdb
+D:\THIS_IS_DOCUMENTS_OK\HỌC KÌ 5\LapTrinhTrucQuan\New folder\csharp-desktop\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.Views.Staff.ShowtimePage.ShowtimePage.resources
+D:\THIS_IS_DOCUMENTS_OK\HỌC KÌ 5\LapTrinhTrucQuan\New folder\csharp-desktop\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.Views.Staff.MovieScheduleWindow.MovieScheduleWindow.resources
+D:\THIS_IS_DOCUMENTS_OK\HỌC KÌ 5\LapTrinhTrucQuan\New folder\csharp-desktop\BAI_TAP_LON\bin\Debug\FontAwesome.Sharp.dll
+D:\THIS_IS_DOCUMENTS_OK\HỌC KÌ 5\LapTrinhTrucQuan\New folder\csharp-desktop\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.Views.Staff.MainStaff.resources
+D:\Document\Csharp_BaiTapLon\csharp-desktop\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.csproj.AssemblyReference.cache
+D:\Document\Csharp_BaiTapLon\csharp-desktop\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.Properties.Resources.resources
+D:\Document\Csharp_BaiTapLon\csharp-desktop\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.Views.Admin.MovieManagement.MovieManagement.resources
+D:\Document\Csharp_BaiTapLon\csharp-desktop\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.Views.Admin.TextboxAdvanced.resources
+D:\Document\Csharp_BaiTapLon\csharp-desktop\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.Views.Staff.MainStaff.resources
+D:\Document\Csharp_BaiTapLon\csharp-desktop\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.Views.Staff.MovieScheduleWindow.MovieScheduleWindow.resources
+D:\Document\Csharp_BaiTapLon\csharp-desktop\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.Views.Staff.ShowtimePage.ShowtimePage.resources
+D:\Document\Csharp_BaiTapLon\csharp-desktop\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.csproj.GenerateResource.cache
+D:\Document\Csharp_BaiTapLon\csharp-desktop\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.csproj.CoreCompileInputs.cache
+D:\Document\Csharp_BaiTapLon\csharp-desktop\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.exe
+D:\Document\Csharp_BaiTapLon\csharp-desktop\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.pdb
+D:\Document\Csharp_BaiTapLon\csharp-desktop\BAI_TAP_LON\bin\Debug\BAI_TAP_LON.exe.config
+D:\Document\Csharp_BaiTapLon\csharp-desktop\BAI_TAP_LON\bin\Debug\BAI_TAP_LON.exe
+D:\Document\Csharp_BaiTapLon\csharp-desktop\BAI_TAP_LON\bin\Debug\BAI_TAP_LON.pdb
+D:\Document\Csharp_BaiTapLon\csharp-desktop\BAI_TAP_LON\bin\Debug\FontAwesome.Sharp.dll
+D:\Document\Csharp_BaiTapLon\csharp-desktop\BAI_TAP_LON\bin\Debug\Krypton.dll
+D:\Document\Csharp_BaiTapLon\csharp-desktop\BAI_TAP_LON\bin\Debug\Krypton.Toolkit.dll
+D:\Document\Csharp_BaiTapLon\csharp-desktop\BAI_TAP_LON\bin\Debug\Krypton.Toolkit.xml
+D:\Document\Csharp_BaiTapLon\csharp-desktop\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.csproj.CopyComplete
+D:\Document\Csharp_BaiTapLon\csharp-desktop\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.Views.Admin.MovieManagement.MovieInfor.resources
+D:\THIS_IS_DOCUMENTS_OK\HỌC KÌ 5\LapTrinhTrucQuan\csharp-desktop\BAI_TAP_LON\bin\Debug\BAI_TAP_LON.exe.config
+D:\THIS_IS_DOCUMENTS_OK\HỌC KÌ 5\LapTrinhTrucQuan\csharp-desktop\BAI_TAP_LON\bin\Debug\BAI_TAP_LON.exe
+D:\THIS_IS_DOCUMENTS_OK\HỌC KÌ 5\LapTrinhTrucQuan\csharp-desktop\BAI_TAP_LON\bin\Debug\BAI_TAP_LON.pdb
+D:\THIS_IS_DOCUMENTS_OK\HỌC KÌ 5\LapTrinhTrucQuan\csharp-desktop\BAI_TAP_LON\bin\Debug\FontAwesome.Sharp.dll
+D:\THIS_IS_DOCUMENTS_OK\HỌC KÌ 5\LapTrinhTrucQuan\csharp-desktop\BAI_TAP_LON\bin\Debug\Krypton.dll
+D:\THIS_IS_DOCUMENTS_OK\HỌC KÌ 5\LapTrinhTrucQuan\csharp-desktop\BAI_TAP_LON\bin\Debug\Krypton.Toolkit.dll
+D:\THIS_IS_DOCUMENTS_OK\HỌC KÌ 5\LapTrinhTrucQuan\csharp-desktop\BAI_TAP_LON\bin\Debug\Krypton.Toolkit.xml
+D:\THIS_IS_DOCUMENTS_OK\HỌC KÌ 5\LapTrinhTrucQuan\csharp-desktop\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.csproj.AssemblyReference.cache
+D:\THIS_IS_DOCUMENTS_OK\HỌC KÌ 5\LapTrinhTrucQuan\csharp-desktop\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.csproj.SuggestedBindingRedirects.cache
+D:\THIS_IS_DOCUMENTS_OK\HỌC KÌ 5\LapTrinhTrucQuan\csharp-desktop\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.Properties.Resources.resources
+D:\THIS_IS_DOCUMENTS_OK\HỌC KÌ 5\LapTrinhTrucQuan\csharp-desktop\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.Views.Admin.MovieManagement.MovieManagement.resources
+D:\THIS_IS_DOCUMENTS_OK\HỌC KÌ 5\LapTrinhTrucQuan\csharp-desktop\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.Views.Admin.TextboxAdvanced.resources
+D:\THIS_IS_DOCUMENTS_OK\HỌC KÌ 5\LapTrinhTrucQuan\csharp-desktop\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.Views.Staff.MainStaff.resources
+D:\THIS_IS_DOCUMENTS_OK\HỌC KÌ 5\LapTrinhTrucQuan\csharp-desktop\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.csproj.GenerateResource.cache
+D:\THIS_IS_DOCUMENTS_OK\HỌC KÌ 5\LapTrinhTrucQuan\csharp-desktop\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.csproj.CoreCompileInputs.cache
+D:\THIS_IS_DOCUMENTS_OK\HỌC KÌ 5\LapTrinhTrucQuan\csharp-desktop\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.csproj.CopyComplete
+D:\THIS_IS_DOCUMENTS_OK\HỌC KÌ 5\LapTrinhTrucQuan\csharp-desktop\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.exe
+D:\THIS_IS_DOCUMENTS_OK\HỌC KÌ 5\LapTrinhTrucQuan\csharp-desktop\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.pdb
+D:\THIS_IS_DOCUMENTS_OK\HỌC KÌ 5\LapTrinhTrucQuan\csharp-desktop\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.Views.Staff.MainHome.resources
+D:\THIS_IS_DOCUMENTS_OK\HỌC KÌ 5\LapTrinhTrucQuan\csharp-desktop\BAI_TAP_LON\bin\Debug\Guna.Charts.WinForms.dll
+D:\THIS_IS_DOCUMENTS_OK\HỌC KÌ 5\LapTrinhTrucQuan\csharp-desktop\BAI_TAP_LON\bin\Debug\Guna.UI2.dll
+D:\THIS_IS_DOCUMENTS_OK\HỌC KÌ 5\LapTrinhTrucQuan\csharp-desktop\BAI_TAP_LON\bin\Debug\Guna.Charts.WinForms.xml
+D:\THIS_IS_DOCUMENTS_OK\HỌC KÌ 5\LapTrinhTrucQuan\csharp-desktop\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.UserControl1.resources
+D:\THIS_IS_DOCUMENTS_OK\HỌC KÌ 5\LapTrinhTrucQuan\csharp-desktop\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.UserControl2.resources
+D:\THIS_IS_DOCUMENTS_OK\HỌC KÌ 5\LapTrinhTrucQuan\csharp-desktop\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.Views.Staff.ShowtimePage.MovieShowtimePgae.resources
+D:\THIS_IS_DOCUMENTS_OK\HỌC KÌ 5\LapTrinhTrucQuan\csharp-desktop\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.Views.Staff.MovieScheduleWindow.MovieSchedule.resources
+D:\THIS_IS_DOCUMENTS_OK\HỌC KÌ 5\LapTrinhTrucQuan\csharp-desktop\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.UserControl3.resources
+D:\THIS_IS_DOCUMENTS_OK\LapTrinhTrucQuan\csharp-desktop\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.csproj.AssemblyReference.cache
+D:\THIS_IS_DOCUMENTS_OK\LapTrinhTrucQuan\csharp-desktop\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.csproj.SuggestedBindingRedirects.cache
+D:\THIS_IS_DOCUMENTS_OK\LapTrinhTrucQuan\csharp-desktop\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.UserControl1.resources
+D:\THIS_IS_DOCUMENTS_OK\LapTrinhTrucQuan\csharp-desktop\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.UserControl2.resources
+D:\THIS_IS_DOCUMENTS_OK\LapTrinhTrucQuan\csharp-desktop\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.UserControl3.resources
+D:\THIS_IS_DOCUMENTS_OK\LapTrinhTrucQuan\csharp-desktop\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.Views.Admin.MovieManagement.MovieInfor.resources
+D:\THIS_IS_DOCUMENTS_OK\LapTrinhTrucQuan\csharp-desktop\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.Views.Admin.MovieManagement.MovieManagement.resources
+D:\THIS_IS_DOCUMENTS_OK\LapTrinhTrucQuan\csharp-desktop\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.Views.Admin.TextboxAdvanced.resources
+D:\THIS_IS_DOCUMENTS_OK\LapTrinhTrucQuan\csharp-desktop\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.Views.Staff.MainHome.resources
+D:\THIS_IS_DOCUMENTS_OK\LapTrinhTrucQuan\csharp-desktop\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.Views.Staff.MainStaff.resources
+D:\THIS_IS_DOCUMENTS_OK\LapTrinhTrucQuan\csharp-desktop\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.Views.Staff.MovieScheduleWindow.MovieSchedule.resources
+D:\THIS_IS_DOCUMENTS_OK\LapTrinhTrucQuan\csharp-desktop\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.Views.Staff.OrderFood.OrderDrinkPage.resources
+D:\THIS_IS_DOCUMENTS_OK\LapTrinhTrucQuan\csharp-desktop\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.Views.Staff.OrderFood.OrderFoodPage.resources
+D:\THIS_IS_DOCUMENTS_OK\LapTrinhTrucQuan\csharp-desktop\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.Views.Staff.ShowtimePage.HotMoviePage.resources
+D:\THIS_IS_DOCUMENTS_OK\LapTrinhTrucQuan\csharp-desktop\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.Views.Staff.ShowtimePage.MovieShowtimePgae.resources
+D:\THIS_IS_DOCUMENTS_OK\LapTrinhTrucQuan\csharp-desktop\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.csproj.GenerateResource.cache
+D:\THIS_IS_DOCUMENTS_OK\HỌC KÌ 5\LapTrinhTrucQuan\csharp-desktop\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.Components.UserControl4.resources
+D:\THIS_IS_DOCUMENTS_OK\HỌC KÌ 5\LapTrinhTrucQuan\csharp-desktop\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.Views.Staff.MovieScheduleWindow.ScreenPage.resources
+D:\THIS_IS_DOCUMENTS_OK\HỌC KÌ 5\LapTrinhTrucQuan\csharp-desktop\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.Views.Staff.OrderFood.ListProduct.resources
+D:\THIS_IS_DOCUMENTS_OK\HỌC KÌ 5\LapTrinhTrucQuan\csharp-desktop\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.Views.Staff.OrderFood.FoodandDrinkPage.resources
+D:\THIS_IS_DOCUMENTS_OK\HỌC KÌ 5\LapTrinhTrucQuan\csharp-desktop\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.Components.UserControl5.resources
+D:\THIS_IS_DOCUMENTS_OK\HỌC KÌ 5\LapTrinhTrucQuan\csharp-desktop\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.Views.Staff.TicketBillFoodPage.OrderBill.resources
+D:\THIS_IS_DOCUMENTS_OK\HỌC KÌ 5\LapTrinhTrucQuan\csharp-desktop\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.Views.Admin.Auth.ChangePassword.resources
+D:\THIS_IS_DOCUMENTS_OK\HỌC KÌ 5\LapTrinhTrucQuan\csharp-desktop\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.Views.Admin.Auth.ForgotPassword.resources
+D:\THIS_IS_DOCUMENTS_OK\HỌC KÌ 5\LapTrinhTrucQuan\csharp-desktop\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.Views.Admin.Auth.Login.resources
+D:\THIS_IS_DOCUMENTS_OK\HỌC KÌ 5\LapTrinhTrucQuan\csharp-desktop\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.Views.Admin.Auth.Register.resources
+D:\THIS_IS_DOCUMENTS_OK\HỌC KÌ 5\LapTrinhTrucQuan\csharp-desktop\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.Views.Admin.Auth.RolePassword.resources
+D:\THIS_IS_DOCUMENTS_OK\HỌC KÌ 5\LapTrinhTrucQuan\csharp-desktop\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.Views.Admin.FoodManagement.FoodManagement.resources
+D:\THIS_IS_DOCUMENTS_OK\HỌC KÌ 5\LapTrinhTrucQuan\csharp-desktop\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.Views.Admin.Import_ExportManagement.ExportDetail.resources
+D:\THIS_IS_DOCUMENTS_OK\HỌC KÌ 5\LapTrinhTrucQuan\csharp-desktop\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.Views.Admin.Import_ExportManagement.ExportPage.resources
+D:\THIS_IS_DOCUMENTS_OK\HỌC KÌ 5\LapTrinhTrucQuan\csharp-desktop\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.Views.Admin.Import_ExportManagement.ImportPage.resources
+D:\THIS_IS_DOCUMENTS_OK\HỌC KÌ 5\LapTrinhTrucQuan\csharp-desktop\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.Views.Admin.Import_ExportManagement.Import_ExpotPage.resources
+D:\THIS_IS_DOCUMENTS_OK\HỌC KÌ 5\LapTrinhTrucQuan\csharp-desktop\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.Views.Admin.MovieManagement.EditMovie.resources
+D:\THIS_IS_DOCUMENTS_OK\HỌC KÌ 5\LapTrinhTrucQuan\csharp-desktop\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.Views.Admin.MovieManagement.InforMovie.resources
+D:\THIS_IS_DOCUMENTS_OK\HỌC KÌ 5\LapTrinhTrucQuan\csharp-desktop\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.Views.Admin.MovieManagement.MovieAdd.resources
+D:\THIS_IS_DOCUMENTS_OK\HỌC KÌ 5\LapTrinhTrucQuan\QUAN_LY_BAN_VE\QLBanVe\BAI_TAP_LON\bin\Debug\BAI_TAP_LON.exe.config
+D:\THIS_IS_DOCUMENTS_OK\HỌC KÌ 5\LapTrinhTrucQuan\QUAN_LY_BAN_VE\QLBanVe\BAI_TAP_LON\bin\Debug\BAI_TAP_LON.exe
+D:\THIS_IS_DOCUMENTS_OK\HỌC KÌ 5\LapTrinhTrucQuan\QUAN_LY_BAN_VE\QLBanVe\BAI_TAP_LON\bin\Debug\BAI_TAP_LON.pdb
+D:\THIS_IS_DOCUMENTS_OK\HỌC KÌ 5\LapTrinhTrucQuan\QUAN_LY_BAN_VE\QLBanVe\BAI_TAP_LON\bin\Debug\FontAwesome.Sharp.dll
+D:\THIS_IS_DOCUMENTS_OK\HỌC KÌ 5\LapTrinhTrucQuan\QUAN_LY_BAN_VE\QLBanVe\BAI_TAP_LON\bin\Debug\Guna.Charts.WinForms.dll
+D:\THIS_IS_DOCUMENTS_OK\HỌC KÌ 5\LapTrinhTrucQuan\QUAN_LY_BAN_VE\QLBanVe\BAI_TAP_LON\bin\Debug\Guna.UI2.dll
+D:\THIS_IS_DOCUMENTS_OK\HỌC KÌ 5\LapTrinhTrucQuan\QUAN_LY_BAN_VE\QLBanVe\BAI_TAP_LON\bin\Debug\Krypton.dll
+D:\THIS_IS_DOCUMENTS_OK\HỌC KÌ 5\LapTrinhTrucQuan\QUAN_LY_BAN_VE\QLBanVe\BAI_TAP_LON\bin\Debug\Krypton.Toolkit.dll
+D:\THIS_IS_DOCUMENTS_OK\HỌC KÌ 5\LapTrinhTrucQuan\QUAN_LY_BAN_VE\QLBanVe\BAI_TAP_LON\bin\Debug\Guna.Charts.WinForms.xml
+D:\THIS_IS_DOCUMENTS_OK\HỌC KÌ 5\LapTrinhTrucQuan\QUAN_LY_BAN_VE\QLBanVe\BAI_TAP_LON\bin\Debug\Krypton.Toolkit.xml
+D:\THIS_IS_DOCUMENTS_OK\HỌC KÌ 5\LapTrinhTrucQuan\QUAN_LY_BAN_VE\QLBanVe\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.csproj.AssemblyReference.cache
+D:\THIS_IS_DOCUMENTS_OK\HỌC KÌ 5\LapTrinhTrucQuan\QUAN_LY_BAN_VE\QLBanVe\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.csproj.SuggestedBindingRedirects.cache
+D:\THIS_IS_DOCUMENTS_OK\HỌC KÌ 5\LapTrinhTrucQuan\QUAN_LY_BAN_VE\QLBanVe\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.Components.UserControl4.resources
+D:\THIS_IS_DOCUMENTS_OK\HỌC KÌ 5\LapTrinhTrucQuan\QUAN_LY_BAN_VE\QLBanVe\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.Components.UserControl5.resources
+D:\THIS_IS_DOCUMENTS_OK\HỌC KÌ 5\LapTrinhTrucQuan\QUAN_LY_BAN_VE\QLBanVe\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.Properties.Resources.resources
+D:\THIS_IS_DOCUMENTS_OK\HỌC KÌ 5\LapTrinhTrucQuan\QUAN_LY_BAN_VE\QLBanVe\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.UserControl1.resources
+D:\THIS_IS_DOCUMENTS_OK\HỌC KÌ 5\LapTrinhTrucQuan\QUAN_LY_BAN_VE\QLBanVe\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.UserControl2.resources
+D:\THIS_IS_DOCUMENTS_OK\HỌC KÌ 5\LapTrinhTrucQuan\QUAN_LY_BAN_VE\QLBanVe\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.UserControl3.resources
+D:\THIS_IS_DOCUMENTS_OK\HỌC KÌ 5\LapTrinhTrucQuan\QUAN_LY_BAN_VE\QLBanVe\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.Views.Admin.Auth.ChangePassword.resources
+D:\THIS_IS_DOCUMENTS_OK\HỌC KÌ 5\LapTrinhTrucQuan\QUAN_LY_BAN_VE\QLBanVe\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.Views.Admin.Auth.ForgotPassword.resources
+D:\THIS_IS_DOCUMENTS_OK\HỌC KÌ 5\LapTrinhTrucQuan\QUAN_LY_BAN_VE\QLBanVe\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.Views.Admin.Auth.Login.resources
+D:\THIS_IS_DOCUMENTS_OK\HỌC KÌ 5\LapTrinhTrucQuan\QUAN_LY_BAN_VE\QLBanVe\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.Views.Admin.Auth.Register.resources
+D:\THIS_IS_DOCUMENTS_OK\HỌC KÌ 5\LapTrinhTrucQuan\QUAN_LY_BAN_VE\QLBanVe\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.Views.Admin.Auth.RolePassword.resources
+D:\THIS_IS_DOCUMENTS_OK\HỌC KÌ 5\LapTrinhTrucQuan\QUAN_LY_BAN_VE\QLBanVe\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.Views.Admin.FoodManagement.FoodManagement.resources
+D:\THIS_IS_DOCUMENTS_OK\HỌC KÌ 5\LapTrinhTrucQuan\QUAN_LY_BAN_VE\QLBanVe\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.Views.Admin.Import_ExportManagement.ExportDetail.resources
+D:\THIS_IS_DOCUMENTS_OK\HỌC KÌ 5\LapTrinhTrucQuan\QUAN_LY_BAN_VE\QLBanVe\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.Views.Admin.Import_ExportManagement.ExportPage.resources
+D:\THIS_IS_DOCUMENTS_OK\HỌC KÌ 5\LapTrinhTrucQuan\QUAN_LY_BAN_VE\QLBanVe\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.Views.Admin.Import_ExportManagement.ImportPage.resources
+D:\THIS_IS_DOCUMENTS_OK\HỌC KÌ 5\LapTrinhTrucQuan\QUAN_LY_BAN_VE\QLBanVe\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.Views.Admin.Import_ExportManagement.Import_ExpotPage.resources
+D:\THIS_IS_DOCUMENTS_OK\HỌC KÌ 5\LapTrinhTrucQuan\QUAN_LY_BAN_VE\QLBanVe\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.Views.Admin.MovieManagement.EditMovie.resources
+D:\THIS_IS_DOCUMENTS_OK\HỌC KÌ 5\LapTrinhTrucQuan\QUAN_LY_BAN_VE\QLBanVe\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.Views.Admin.MovieManagement.InforMovie.resources
+D:\THIS_IS_DOCUMENTS_OK\HỌC KÌ 5\LapTrinhTrucQuan\QUAN_LY_BAN_VE\QLBanVe\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.Views.Admin.MovieManagement.MovieAdd.resources
+D:\THIS_IS_DOCUMENTS_OK\HỌC KÌ 5\LapTrinhTrucQuan\QUAN_LY_BAN_VE\QLBanVe\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.Views.Admin.MovieManagement.MovieManagement.resources
+D:\THIS_IS_DOCUMENTS_OK\HỌC KÌ 5\LapTrinhTrucQuan\QUAN_LY_BAN_VE\QLBanVe\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.Views.Admin.TextboxAdvanced.resources
+D:\THIS_IS_DOCUMENTS_OK\HỌC KÌ 5\LapTrinhTrucQuan\QUAN_LY_BAN_VE\QLBanVe\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.Views.Staff.MainHome.resources
+D:\THIS_IS_DOCUMENTS_OK\HỌC KÌ 5\LapTrinhTrucQuan\QUAN_LY_BAN_VE\QLBanVe\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.Views.Staff.MainStaff.resources
+D:\THIS_IS_DOCUMENTS_OK\HỌC KÌ 5\LapTrinhTrucQuan\QUAN_LY_BAN_VE\QLBanVe\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.Views.Staff.MovieScheduleWindow.MovieSchedule.resources
+D:\THIS_IS_DOCUMENTS_OK\HỌC KÌ 5\LapTrinhTrucQuan\QUAN_LY_BAN_VE\QLBanVe\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.Views.Staff.MovieScheduleWindow.ScreenPage.resources
+D:\THIS_IS_DOCUMENTS_OK\HỌC KÌ 5\LapTrinhTrucQuan\QUAN_LY_BAN_VE\QLBanVe\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.Views.Staff.OrderFood.FoodandDrinkPage.resources
+D:\THIS_IS_DOCUMENTS_OK\HỌC KÌ 5\LapTrinhTrucQuan\QUAN_LY_BAN_VE\QLBanVe\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.Views.Staff.OrderFood.ListProduct.resources
+D:\THIS_IS_DOCUMENTS_OK\HỌC KÌ 5\LapTrinhTrucQuan\QUAN_LY_BAN_VE\QLBanVe\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.Views.Staff.ShowtimePage.MovieShowtimePgae.resources
+D:\THIS_IS_DOCUMENTS_OK\HỌC KÌ 5\LapTrinhTrucQuan\QUAN_LY_BAN_VE\QLBanVe\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.Views.Staff.TicketBillFoodPage.OrderBill.resources
+D:\THIS_IS_DOCUMENTS_OK\HỌC KÌ 5\LapTrinhTrucQuan\QUAN_LY_BAN_VE\QLBanVe\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.csproj.GenerateResource.cache
+D:\THIS_IS_DOCUMENTS_OK\HỌC KÌ 5\LapTrinhTrucQuan\QUAN_LY_BAN_VE\QLBanVe\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.csproj.CoreCompileInputs.cache
+D:\THIS_IS_DOCUMENTS_OK\HỌC KÌ 5\LapTrinhTrucQuan\QUAN_LY_BAN_VE\QLBanVe\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.csproj.CopyComplete
+D:\THIS_IS_DOCUMENTS_OK\HỌC KÌ 5\LapTrinhTrucQuan\QUAN_LY_BAN_VE\QLBanVe\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.exe
+D:\THIS_IS_DOCUMENTS_OK\HỌC KÌ 5\LapTrinhTrucQuan\QUAN_LY_BAN_VE\QLBanVe\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.pdb
+D:\THIS_IS_DOCUMENTS_OK\LapTrinhTrucQuan_BTL_30_10\QLBanVe\BAI_TAP_LON\bin\Debug\BAI_TAP_LON.exe.config
+D:\THIS_IS_DOCUMENTS_OK\LapTrinhTrucQuan_BTL_30_10\QLBanVe\BAI_TAP_LON\bin\Debug\BAI_TAP_LON.exe
+D:\THIS_IS_DOCUMENTS_OK\LapTrinhTrucQuan_BTL_30_10\QLBanVe\BAI_TAP_LON\bin\Debug\BAI_TAP_LON.pdb
+D:\THIS_IS_DOCUMENTS_OK\LapTrinhTrucQuan_BTL_30_10\QLBanVe\BAI_TAP_LON\bin\Debug\FontAwesome.Sharp.dll
+D:\THIS_IS_DOCUMENTS_OK\LapTrinhTrucQuan_BTL_30_10\QLBanVe\BAI_TAP_LON\bin\Debug\Guna.Charts.WinForms.dll
+D:\THIS_IS_DOCUMENTS_OK\LapTrinhTrucQuan_BTL_30_10\QLBanVe\BAI_TAP_LON\bin\Debug\Guna.UI2.dll
+D:\THIS_IS_DOCUMENTS_OK\LapTrinhTrucQuan_BTL_30_10\QLBanVe\BAI_TAP_LON\bin\Debug\Krypton.dll
+D:\THIS_IS_DOCUMENTS_OK\LapTrinhTrucQuan_BTL_30_10\QLBanVe\BAI_TAP_LON\bin\Debug\Krypton.Toolkit.dll
+D:\THIS_IS_DOCUMENTS_OK\LapTrinhTrucQuan_BTL_30_10\QLBanVe\BAI_TAP_LON\bin\Debug\Guna.Charts.WinForms.xml
+D:\THIS_IS_DOCUMENTS_OK\LapTrinhTrucQuan_BTL_30_10\QLBanVe\BAI_TAP_LON\bin\Debug\Krypton.Toolkit.xml
+D:\THIS_IS_DOCUMENTS_OK\LapTrinhTrucQuan_BTL_30_10\QLBanVe\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.csproj.AssemblyReference.cache
+D:\THIS_IS_DOCUMENTS_OK\LapTrinhTrucQuan_BTL_30_10\QLBanVe\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.csproj.SuggestedBindingRedirects.cache
+D:\THIS_IS_DOCUMENTS_OK\LapTrinhTrucQuan_BTL_30_10\QLBanVe\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.Components.UserControl4.resources
+D:\THIS_IS_DOCUMENTS_OK\LapTrinhTrucQuan_BTL_30_10\QLBanVe\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.Components.UserControl5.resources
+D:\THIS_IS_DOCUMENTS_OK\LapTrinhTrucQuan_BTL_30_10\QLBanVe\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.Properties.Resources.resources
+D:\THIS_IS_DOCUMENTS_OK\LapTrinhTrucQuan_BTL_30_10\QLBanVe\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.UserControl1.resources
+D:\THIS_IS_DOCUMENTS_OK\LapTrinhTrucQuan_BTL_30_10\QLBanVe\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.UserControl2.resources
+D:\THIS_IS_DOCUMENTS_OK\LapTrinhTrucQuan_BTL_30_10\QLBanVe\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.UserControl3.resources
+D:\THIS_IS_DOCUMENTS_OK\LapTrinhTrucQuan_BTL_30_10\QLBanVe\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.Views.Admin.FoodManagement.FoodManagement.resources
+D:\THIS_IS_DOCUMENTS_OK\LapTrinhTrucQuan_BTL_30_10\QLBanVe\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.Views.Admin.Import_ExportManagement.ExportDetail.resources
+D:\THIS_IS_DOCUMENTS_OK\LapTrinhTrucQuan_BTL_30_10\QLBanVe\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.Views.Admin.Import_ExportManagement.ExportPage.resources
+D:\THIS_IS_DOCUMENTS_OK\LapTrinhTrucQuan_BTL_30_10\QLBanVe\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.Views.Admin.Import_ExportManagement.ImportPage.resources
+D:\THIS_IS_DOCUMENTS_OK\LapTrinhTrucQuan_BTL_30_10\QLBanVe\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.Views.Admin.Import_ExportManagement.Import_ExpotPage.resources
+D:\THIS_IS_DOCUMENTS_OK\LapTrinhTrucQuan_BTL_30_10\QLBanVe\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.Views.Admin.MovieManagement.EditMovie.resources
+D:\THIS_IS_DOCUMENTS_OK\LapTrinhTrucQuan_BTL_30_10\QLBanVe\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.Views.Admin.MovieManagement.MovieAdd.resources
+D:\THIS_IS_DOCUMENTS_OK\LapTrinhTrucQuan_BTL_30_10\QLBanVe\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.Views.Admin.TextboxAdvanced.resources
+D:\THIS_IS_DOCUMENTS_OK\LapTrinhTrucQuan_BTL_30_10\QLBanVe\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.Views.Staff.MainHome.resources
+D:\THIS_IS_DOCUMENTS_OK\LapTrinhTrucQuan_BTL_30_10\QLBanVe\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.Views.Staff.MainStaff.resources
+D:\THIS_IS_DOCUMENTS_OK\LapTrinhTrucQuan_BTL_30_10\QLBanVe\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.Views.Staff.MovieScheduleWindow.MovieSchedule.resources
+D:\THIS_IS_DOCUMENTS_OK\LapTrinhTrucQuan_BTL_30_10\QLBanVe\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.Views.Staff.MovieScheduleWindow.ScreenPage.resources
+D:\THIS_IS_DOCUMENTS_OK\LapTrinhTrucQuan_BTL_30_10\QLBanVe\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.Views.Staff.OrderFood.FoodandDrinkPage.resources
+D:\THIS_IS_DOCUMENTS_OK\LapTrinhTrucQuan_BTL_30_10\QLBanVe\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.Views.Staff.OrderFood.ListProduct.resources
+D:\THIS_IS_DOCUMENTS_OK\LapTrinhTrucQuan_BTL_30_10\QLBanVe\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.Views.Staff.TicketBillFoodPage.OrderBill.resources
+D:\THIS_IS_DOCUMENTS_OK\LapTrinhTrucQuan_BTL_30_10\QLBanVe\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.csproj.GenerateResource.cache
+D:\THIS_IS_DOCUMENTS_OK\LapTrinhTrucQuan_BTL_30_10\QLBanVe\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.csproj.CoreCompileInputs.cache
+D:\THIS_IS_DOCUMENTS_OK\LapTrinhTrucQuan_BTL_30_10\QLBanVe\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.csproj.CopyComplete
+D:\THIS_IS_DOCUMENTS_OK\LapTrinhTrucQuan_BTL_30_10\QLBanVe\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.exe
+D:\THIS_IS_DOCUMENTS_OK\LapTrinhTrucQuan_BTL_30_10\QLBanVe\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.pdb
+D:\THIS_IS_DOCUMENTS_OK\LapTrinhTrucQuan_BTL_30_10\QLBanVe\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.Views.Admin.MainAdmin.resources
+D:\THIS_IS_DOCUMENTS_OK\LapTrinhTrucQuan_BTL_30_10\QLBanVe\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.Views.Admin.MovieManagement.SearchFilm.resources
+D:\THIS_IS_DOCUMENTS_OK\LapTrinhTrucQuan_BTL_30_10\QLBanVe\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.Components.PhimControl.resources
+D:\THIS_IS_DOCUMENTS_OK\LapTrinhTrucQuan_BTL_30_10\QLBanVe\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.Views.Admin.MovieManagement.DeleteMovie.resources
+D:\THIS_IS_DOCUMENTS_OK\LapTrinhTrucQuan_BTL_30_10\QLBanVe\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.Views.Admin.ShowTime.ShowTime.resources
+D:\THIS_IS_DOCUMENTS_OK\LapTrinhTrucQuan_BTL_30_10\QLBanVe\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.Views.Admin.ShowTime.AddShow.resources
+D:\THIS_IS_DOCUMENTS_OK\LapTrinhTrucQuan_BTL_30_10\QLBanVe\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.Components.test.resources
+D:\THIS_IS_DOCUMENTS_OK\LapTrinhTrucQuan_BTL_30_10\QLBanVe\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.Views.Auth.ChangePassword.resources
+D:\THIS_IS_DOCUMENTS_OK\LapTrinhTrucQuan_BTL_30_10\QLBanVe\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.Views.Staff.ShowtimePage.MovieShowtimePage.resources
+D:\THIS_IS_DOCUMENTS_OK\LapTrinhTrucQuan_BTL_30_10\QLBanVe\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.Views.Auth.ForgotPassword.resources
+D:\THIS_IS_DOCUMENTS_OK\LapTrinhTrucQuan_BTL_30_10\QLBanVe\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.Views.Auth.Login.resources
+D:\THIS_IS_DOCUMENTS_OK\LapTrinhTrucQuan_BTL_30_10\QLBanVe\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.Views.Auth.Register.resources
+D:\THIS_IS_DOCUMENTS_OK\LapTrinhTrucQuan_BTL_30_10\QLBanVe\BAI_TAP_LON\obj\Debug\BAI_TAP_LON.Views.Admin.ShowTime.DetailShow.resources
