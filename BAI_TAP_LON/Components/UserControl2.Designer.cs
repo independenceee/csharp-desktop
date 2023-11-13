@@ -28,29 +28,31 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.guna2NumericUpDown1 = new Guna.UI2.WinForms.Guna2NumericUpDown();
+            this.numSoLuongSP = new Guna.UI2.WinForms.Guna2NumericUpDown();
             this.guna2GradientPanel1 = new Guna.UI2.WinForms.Guna2GradientPanel();
-            this.label2 = new System.Windows.Forms.Label();
-            this.label1 = new System.Windows.Forms.Label();
-            this.iconButton1 = new FontAwesome.Sharp.IconButton();
-            ((System.ComponentModel.ISupportInitialize)(this.guna2NumericUpDown1)).BeginInit();
+            this.lblThanhTien = new System.Windows.Forms.Label();
+            this.lblTenSP = new System.Windows.Forms.Label();
+            this.btnXoa = new FontAwesome.Sharp.IconButton();
+            ((System.ComponentModel.ISupportInitialize)(this.numSoLuongSP)).BeginInit();
             this.guna2GradientPanel1.SuspendLayout();
             this.SuspendLayout();
             // 
-            // guna2NumericUpDown1
+            // numSoLuongSP
             // 
-            this.guna2NumericUpDown1.BackColor = System.Drawing.Color.Transparent;
-            this.guna2NumericUpDown1.BorderColor = System.Drawing.Color.Firebrick;
-            this.guna2NumericUpDown1.BorderRadius = 4;
-            this.guna2NumericUpDown1.Cursor = System.Windows.Forms.Cursors.IBeam;
-            this.guna2NumericUpDown1.Font = new System.Drawing.Font("Segoe UI", 9F);
-            this.guna2NumericUpDown1.Location = new System.Drawing.Point(266, 13);
-            this.guna2NumericUpDown1.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.guna2NumericUpDown1.Name = "guna2NumericUpDown1";
-            this.guna2NumericUpDown1.Size = new System.Drawing.Size(93, 35);
-            this.guna2NumericUpDown1.TabIndex = 0;
-            this.guna2NumericUpDown1.UpDownButtonFillColor = System.Drawing.Color.Firebrick;
-            this.guna2NumericUpDown1.UpDownButtonForeColor = System.Drawing.Color.DarkGray;
+            this.numSoLuongSP.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.numSoLuongSP.BackColor = System.Drawing.Color.Transparent;
+            this.numSoLuongSP.BorderColor = System.Drawing.Color.Firebrick;
+            this.numSoLuongSP.BorderRadius = 4;
+            this.numSoLuongSP.Cursor = System.Windows.Forms.Cursors.IBeam;
+            this.numSoLuongSP.Font = new System.Drawing.Font("Segoe UI", 9F);
+            this.numSoLuongSP.Location = new System.Drawing.Point(202, 13);
+            this.numSoLuongSP.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.numSoLuongSP.Name = "numSoLuongSP";
+            this.numSoLuongSP.Size = new System.Drawing.Size(93, 35);
+            this.numSoLuongSP.TabIndex = 0;
+            this.numSoLuongSP.UpDownButtonFillColor = System.Drawing.Color.Firebrick;
+            this.numSoLuongSP.UpDownButtonForeColor = System.Drawing.Color.DarkGray;
+            this.numSoLuongSP.ValueChanged += new System.EventHandler(this.numSoLuongSP_ValueChanged);
             // 
             // guna2GradientPanel1
             // 
@@ -58,52 +60,55 @@
             this.guna2GradientPanel1.BorderColor = System.Drawing.Color.Silver;
             this.guna2GradientPanel1.BorderStyle = System.Drawing.Drawing2D.DashStyle.Custom;
             this.guna2GradientPanel1.BorderThickness = 1;
-            this.guna2GradientPanel1.Controls.Add(this.label2);
-            this.guna2GradientPanel1.Controls.Add(this.label1);
-            this.guna2GradientPanel1.Controls.Add(this.iconButton1);
-            this.guna2GradientPanel1.Controls.Add(this.guna2NumericUpDown1);
+            this.guna2GradientPanel1.Controls.Add(this.lblThanhTien);
+            this.guna2GradientPanel1.Controls.Add(this.lblTenSP);
+            this.guna2GradientPanel1.Controls.Add(this.btnXoa);
+            this.guna2GradientPanel1.Controls.Add(this.numSoLuongSP);
             this.guna2GradientPanel1.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.guna2GradientPanel1.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.guna2GradientPanel1.Location = new System.Drawing.Point(0, 0);
             this.guna2GradientPanel1.Name = "guna2GradientPanel1";
-            this.guna2GradientPanel1.Size = new System.Drawing.Size(438, 68);
+            this.guna2GradientPanel1.Size = new System.Drawing.Size(374, 55);
             this.guna2GradientPanel1.TabIndex = 4;
             // 
-            // label2
+            // lblThanhTien
             // 
-            this.label2.AutoSize = true;
-            this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.Location = new System.Drawing.Point(364, 24);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(49, 16);
-            this.label2.TabIndex = 4;
-            this.label2.Text = "$25000";
+            this.lblThanhTien.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.lblThanhTien.AutoSize = true;
+            this.lblThanhTien.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblThanhTien.Location = new System.Drawing.Point(301, 24);
+            this.lblThanhTien.Name = "lblThanhTien";
+            this.lblThanhTien.Size = new System.Drawing.Size(49, 16);
+            this.lblThanhTien.TabIndex = 4;
+            this.lblThanhTien.Text = "$25000";
             // 
-            // label1
+            // lblTenSP
             // 
-            this.label1.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            this.lblTenSP.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-            this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(58, 24);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(102, 16);
-            this.label1.TabIndex = 3;
-            this.label1.Text = "Popcorn in CGV";
+            this.lblTenSP.AutoSize = true;
+            this.lblTenSP.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblTenSP.Location = new System.Drawing.Point(58, 24);
+            this.lblTenSP.Name = "lblTenSP";
+            this.lblTenSP.Size = new System.Drawing.Size(102, 16);
+            this.lblTenSP.TabIndex = 3;
+            this.lblTenSP.Text = "Popcorn in CGV";
             // 
-            // iconButton1
+            // btnXoa
             // 
-            this.iconButton1.FlatAppearance.BorderSize = 0;
-            this.iconButton1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.iconButton1.IconChar = FontAwesome.Sharp.IconChar.TrashAlt;
-            this.iconButton1.IconColor = System.Drawing.Color.Brown;
-            this.iconButton1.IconFont = FontAwesome.Sharp.IconFont.Auto;
-            this.iconButton1.IconSize = 40;
-            this.iconButton1.Location = new System.Drawing.Point(3, 13);
-            this.iconButton1.Name = "iconButton1";
-            this.iconButton1.Size = new System.Drawing.Size(50, 35);
-            this.iconButton1.TabIndex = 2;
-            this.iconButton1.UseVisualStyleBackColor = true;
+            this.btnXoa.FlatAppearance.BorderSize = 0;
+            this.btnXoa.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnXoa.IconChar = FontAwesome.Sharp.IconChar.TrashAlt;
+            this.btnXoa.IconColor = System.Drawing.Color.Brown;
+            this.btnXoa.IconFont = FontAwesome.Sharp.IconFont.Auto;
+            this.btnXoa.IconSize = 40;
+            this.btnXoa.Location = new System.Drawing.Point(3, 13);
+            this.btnXoa.Name = "btnXoa";
+            this.btnXoa.Size = new System.Drawing.Size(50, 35);
+            this.btnXoa.TabIndex = 2;
+            this.btnXoa.UseVisualStyleBackColor = true;
+            this.btnXoa.Click += new System.EventHandler(this.btnXoa_Click);
             // 
             // UserControl2
             // 
@@ -111,8 +116,8 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.Controls.Add(this.guna2GradientPanel1);
             this.Name = "UserControl2";
-            this.Size = new System.Drawing.Size(438, 68);
-            ((System.ComponentModel.ISupportInitialize)(this.guna2NumericUpDown1)).EndInit();
+            this.Size = new System.Drawing.Size(374, 55);
+            ((System.ComponentModel.ISupportInitialize)(this.numSoLuongSP)).EndInit();
             this.guna2GradientPanel1.ResumeLayout(false);
             this.guna2GradientPanel1.PerformLayout();
             this.ResumeLayout(false);
@@ -121,10 +126,10 @@
 
         #endregion
 
-        private Guna.UI2.WinForms.Guna2NumericUpDown guna2NumericUpDown1;
-        private FontAwesome.Sharp.IconButton iconButton1;
+        private Guna.UI2.WinForms.Guna2NumericUpDown numSoLuongSP;
+        private FontAwesome.Sharp.IconButton btnXoa;
         private Guna.UI2.WinForms.Guna2GradientPanel guna2GradientPanel1;
-        private System.Windows.Forms.Label label2;
-        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Label lblThanhTien;
+        private System.Windows.Forms.Label lblTenSP;
     }
 }

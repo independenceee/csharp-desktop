@@ -43,10 +43,10 @@
             this.label1 = new System.Windows.Forms.Label();
             this.guna2GradientPanel3 = new Guna.UI2.WinForms.Guna2GradientPanel();
             this.flowLayoutPanel2 = new System.Windows.Forms.FlowLayoutPanel();
-            this.userControl21 = new BAI_TAP_LON.UserControl2();
             this.guna2GradientPanel1 = new Guna.UI2.WinForms.Guna2GradientPanel();
             this.label6 = new System.Windows.Forms.Label();
             this.flSanPham = new System.Windows.Forms.FlowLayoutPanel();
+            this.userControl51 = new BAI_TAP_LON.Components.UserControl5();
             this.guna2ShadowPanel1.SuspendLayout();
             this.panel1.SuspendLayout();
             this.guna2GradientPanel4.SuspendLayout();
@@ -240,20 +240,13 @@
             // 
             // flowLayoutPanel2
             // 
-            this.flowLayoutPanel2.Controls.Add(this.userControl21);
+            this.flowLayoutPanel2.Controls.Add(this.userControl51);
             this.flowLayoutPanel2.Dock = System.Windows.Forms.DockStyle.Fill;
             this.flowLayoutPanel2.FlowDirection = System.Windows.Forms.FlowDirection.TopDown;
             this.flowLayoutPanel2.Location = new System.Drawing.Point(0, 0);
             this.flowLayoutPanel2.Name = "flowLayoutPanel2";
             this.flowLayoutPanel2.Size = new System.Drawing.Size(472, 390);
             this.flowLayoutPanel2.TabIndex = 0;
-            // 
-            // userControl21
-            // 
-            this.userControl21.Location = new System.Drawing.Point(3, 3);
-            this.userControl21.Name = "userControl21";
-            this.userControl21.Size = new System.Drawing.Size(438, 68);
-            this.userControl21.TabIndex = 0;
             // 
             // guna2GradientPanel1
             // 
@@ -285,6 +278,13 @@
             this.flSanPham.Name = "flSanPham";
             this.flSanPham.Size = new System.Drawing.Size(805, 710);
             this.flSanPham.TabIndex = 5;
+            // 
+            // userControl51
+            // 
+            this.userControl51.Location = new System.Drawing.Point(3, 3);
+            this.userControl51.Name = "userControl51";
+            this.userControl51.Size = new System.Drawing.Size(466, 68);
+            this.userControl51.TabIndex = 0;
             // 
             // FoodandDrinkPage
             // 
@@ -329,6 +329,6 @@
         private Guna.UI2.WinForms.Guna2GradientPanel guna2GradientPanel1;
         private System.Windows.Forms.Label label6;
         private System.Windows.Forms.FlowLayoutPanel flowLayoutPanel2;
-        private UserControl2 userControl21;
+        private Components.UserControl5 userControl51;
     }
 }

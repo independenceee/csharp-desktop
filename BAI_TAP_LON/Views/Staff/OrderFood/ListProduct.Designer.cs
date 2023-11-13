@@ -31,21 +31,17 @@
             this.guna2CustomGradientPanel1 = new Guna.UI2.WinForms.Guna2CustomGradientPanel();
             this.guna2BtnBack = new Guna.UI2.WinForms.Guna2Button();
             this.panel2 = new System.Windows.Forms.Panel();
-            this.flowLayoutPanel1 = new System.Windows.Forms.FlowLayoutPanel();
+            this.flSanPham = new System.Windows.Forms.FlowLayoutPanel();
             this.menuStrip1 = new System.Windows.Forms.MenuStrip();
             this.AllProducttion = new System.Windows.Forms.ToolStripMenuItem();
-            this.đồĂnToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.đồUốngToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.menuDoAn = new System.Windows.Forms.ToolStripMenuItem();
+            this.menuDoUong = new System.Windows.Forms.ToolStripMenuItem();
             this.panel1 = new System.Windows.Forms.Panel();
             this.guna2GradientPanel1 = new Guna.UI2.WinForms.Guna2GradientPanel();
             this.label6 = new System.Windows.Forms.Label();
             this.btnXacNhan = new Guna.UI2.WinForms.Guna2Button();
             this.guna2CustomGradientPanel3 = new Guna.UI2.WinForms.Guna2CustomGradientPanel();
-            this.flowLayoutPanel2 = new System.Windows.Forms.FlowLayoutPanel();
-            this.userControl51 = new BAI_TAP_LON.Components.UserControl5();
-            this.userControl52 = new BAI_TAP_LON.Components.UserControl5();
-            this.userControl53 = new BAI_TAP_LON.Components.UserControl5();
-            this.userControl54 = new BAI_TAP_LON.Components.UserControl5();
+            this.flCT_SanPham = new System.Windows.Forms.FlowLayoutPanel();
             this.guna2CustomGradientPanel4 = new Guna.UI2.WinForms.Guna2CustomGradientPanel();
             this.label18 = new System.Windows.Forms.Label();
             this.label17 = new System.Windows.Forms.Label();
@@ -55,7 +51,6 @@
             this.panel1.SuspendLayout();
             this.guna2GradientPanel1.SuspendLayout();
             this.guna2CustomGradientPanel3.SuspendLayout();
-            this.flowLayoutPanel2.SuspendLayout();
             this.guna2CustomGradientPanel4.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -68,7 +63,7 @@
             this.guna2CustomGradientPanel1.FillColor = System.Drawing.Color.Silver;
             this.guna2CustomGradientPanel1.FillColor2 = System.Drawing.Color.DarkRed;
             this.guna2CustomGradientPanel1.Location = new System.Drawing.Point(0, 0);
-            this.guna2CustomGradientPanel1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.guna2CustomGradientPanel1.Margin = new System.Windows.Forms.Padding(4);
             this.guna2CustomGradientPanel1.Name = "guna2CustomGradientPanel1";
             this.guna2CustomGradientPanel1.Size = new System.Drawing.Size(1354, 62);
             this.guna2CustomGradientPanel1.TabIndex = 1;
@@ -89,7 +84,7 @@
             this.guna2BtnBack.Image = global::BAI_TAP_LON.Properties.Resources.icons8_back_50;
             this.guna2BtnBack.ImageSize = new System.Drawing.Size(40, 40);
             this.guna2BtnBack.Location = new System.Drawing.Point(0, 0);
-            this.guna2BtnBack.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.guna2BtnBack.Margin = new System.Windows.Forms.Padding(4);
             this.guna2BtnBack.Name = "guna2BtnBack";
             this.guna2BtnBack.Size = new System.Drawing.Size(368, 62);
             this.guna2BtnBack.TabIndex = 1;
@@ -98,23 +93,23 @@
             // 
             // panel2
             // 
-            this.panel2.Controls.Add(this.flowLayoutPanel1);
+            this.panel2.Controls.Add(this.flSanPham);
             this.panel2.Controls.Add(this.menuStrip1);
             this.panel2.Dock = System.Windows.Forms.DockStyle.Fill;
             this.panel2.Location = new System.Drawing.Point(0, 62);
-            this.panel2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.panel2.Margin = new System.Windows.Forms.Padding(4);
             this.panel2.Name = "panel2";
             this.panel2.Size = new System.Drawing.Size(936, 674);
             this.panel2.TabIndex = 3;
             // 
-            // flowLayoutPanel1
+            // flSanPham
             // 
-            this.flowLayoutPanel1.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.flowLayoutPanel1.Location = new System.Drawing.Point(0, 31);
-            this.flowLayoutPanel1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
-            this.flowLayoutPanel1.Name = "flowLayoutPanel1";
-            this.flowLayoutPanel1.Size = new System.Drawing.Size(936, 643);
-            this.flowLayoutPanel1.TabIndex = 1;
+            this.flSanPham.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.flSanPham.Location = new System.Drawing.Point(0, 31);
+            this.flSanPham.Margin = new System.Windows.Forms.Padding(4);
+            this.flSanPham.Name = "flSanPham";
+            this.flSanPham.Size = new System.Drawing.Size(936, 643);
+            this.flSanPham.TabIndex = 1;
             // 
             // menuStrip1
             // 
@@ -124,8 +119,8 @@
             this.menuStrip1.ImageScalingSize = new System.Drawing.Size(20, 20);
             this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.AllProducttion,
-            this.đồĂnToolStripMenuItem,
-            this.đồUốngToolStripMenuItem});
+            this.menuDoAn,
+            this.menuDoUong});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
             this.menuStrip1.Padding = new System.Windows.Forms.Padding(5, 2, 0, 2);
@@ -138,23 +133,23 @@
             this.AllProducttion.Name = "AllProducttion";
             this.AllProducttion.Size = new System.Drawing.Size(175, 27);
             this.AllProducttion.Text = "Tất cả các sản phẩm";
-            this.AllProducttion.Click += new System.EventHandler(this.tấtCảCácSảnPhẩmToolStripMenuItem_Click);
+            this.AllProducttion.Click += new System.EventHandler(this.AllProducttion_Click);
             // 
-            // đồĂnToolStripMenuItem
+            // menuDoAn
             // 
-            this.đồĂnToolStripMenuItem.Font = new System.Drawing.Font("Segoe UI", 10.2F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.đồĂnToolStripMenuItem.Name = "đồĂnToolStripMenuItem";
-            this.đồĂnToolStripMenuItem.Size = new System.Drawing.Size(69, 27);
-            this.đồĂnToolStripMenuItem.Text = "Đồ ăn";
-            this.đồĂnToolStripMenuItem.Click += new System.EventHandler(this.đồĂnToolStripMenuItem_Click);
+            this.menuDoAn.Font = new System.Drawing.Font("Segoe UI", 10.2F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.menuDoAn.Name = "menuDoAn";
+            this.menuDoAn.Size = new System.Drawing.Size(69, 27);
+            this.menuDoAn.Text = "Đồ ăn";
+            this.menuDoAn.Click += new System.EventHandler(this.menuDoAn_Click);
             // 
-            // đồUốngToolStripMenuItem
+            // menuDoUong
             // 
-            this.đồUốngToolStripMenuItem.Font = new System.Drawing.Font("Segoe UI", 10.2F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.đồUốngToolStripMenuItem.Name = "đồUốngToolStripMenuItem";
-            this.đồUốngToolStripMenuItem.Size = new System.Drawing.Size(87, 27);
-            this.đồUốngToolStripMenuItem.Text = "Đồ uống";
-            this.đồUốngToolStripMenuItem.Click += new System.EventHandler(this.đồUốngToolStripMenuItem_Click);
+            this.menuDoUong.Font = new System.Drawing.Font("Segoe UI", 10.2F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.menuDoUong.Name = "menuDoUong";
+            this.menuDoUong.Size = new System.Drawing.Size(87, 27);
+            this.menuDoUong.Text = "Đồ uống";
+            this.menuDoUong.Click += new System.EventHandler(this.menuDoUong_Click);
             // 
             // panel1
             // 
@@ -163,7 +158,7 @@
             this.panel1.Controls.Add(this.guna2CustomGradientPanel3);
             this.panel1.Dock = System.Windows.Forms.DockStyle.Right;
             this.panel1.Location = new System.Drawing.Point(936, 62);
-            this.panel1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.panel1.Margin = new System.Windows.Forms.Padding(4);
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(418, 674);
             this.panel1.TabIndex = 2;
@@ -176,7 +171,7 @@
             this.guna2GradientPanel1.FillColor = System.Drawing.Color.Firebrick;
             this.guna2GradientPanel1.FillColor2 = System.Drawing.Color.DarkGray;
             this.guna2GradientPanel1.Location = new System.Drawing.Point(29, 19);
-            this.guna2GradientPanel1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.guna2GradientPanel1.Margin = new System.Windows.Forms.Padding(4);
             this.guna2GradientPanel1.Name = "guna2GradientPanel1";
             this.guna2GradientPanel1.Size = new System.Drawing.Size(374, 78);
             this.guna2GradientPanel1.TabIndex = 6;
@@ -209,7 +204,7 @@
             this.btnXacNhan.HoverState.FillColor = System.Drawing.Color.LightSkyBlue;
             this.btnXacNhan.HoverState.ForeColor = System.Drawing.Color.White;
             this.btnXacNhan.Location = new System.Drawing.Point(158, 606);
-            this.btnXacNhan.Margin = new System.Windows.Forms.Padding(25, 25, 25, 25);
+            this.btnXacNhan.Margin = new System.Windows.Forms.Padding(25);
             this.btnXacNhan.Name = "btnXacNhan";
             this.btnXacNhan.Size = new System.Drawing.Size(121, 56);
             this.btnXacNhan.TabIndex = 4;
@@ -221,59 +216,23 @@
             this.guna2CustomGradientPanel3.BorderColor = System.Drawing.Color.Silver;
             this.guna2CustomGradientPanel3.BorderRadius = 6;
             this.guna2CustomGradientPanel3.BorderThickness = 1;
-            this.guna2CustomGradientPanel3.Controls.Add(this.flowLayoutPanel2);
+            this.guna2CustomGradientPanel3.Controls.Add(this.flCT_SanPham);
             this.guna2CustomGradientPanel3.Controls.Add(this.guna2CustomGradientPanel4);
             this.guna2CustomGradientPanel3.Location = new System.Drawing.Point(29, 115);
-            this.guna2CustomGradientPanel3.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.guna2CustomGradientPanel3.Margin = new System.Windows.Forms.Padding(4);
             this.guna2CustomGradientPanel3.Name = "guna2CustomGradientPanel3";
             this.guna2CustomGradientPanel3.Size = new System.Drawing.Size(374, 485);
             this.guna2CustomGradientPanel3.TabIndex = 0;
             // 
-            // flowLayoutPanel2
+            // flCT_SanPham
             // 
-            this.flowLayoutPanel2.BackColor = System.Drawing.Color.Transparent;
-            this.flowLayoutPanel2.Controls.Add(this.userControl51);
-            this.flowLayoutPanel2.Controls.Add(this.userControl52);
-            this.flowLayoutPanel2.Controls.Add(this.userControl53);
-            this.flowLayoutPanel2.Controls.Add(this.userControl54);
-            this.flowLayoutPanel2.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.flowLayoutPanel2.Location = new System.Drawing.Point(0, 0);
-            this.flowLayoutPanel2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
-            this.flowLayoutPanel2.Name = "flowLayoutPanel2";
-            this.flowLayoutPanel2.Size = new System.Drawing.Size(374, 427);
-            this.flowLayoutPanel2.TabIndex = 5;
-            // 
-            // userControl51
-            // 
-            this.userControl51.Location = new System.Drawing.Point(4, 4);
-            this.userControl51.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
-            this.userControl51.Name = "userControl51";
-            this.userControl51.Size = new System.Drawing.Size(361, 68);
-            this.userControl51.TabIndex = 0;
-            // 
-            // userControl52
-            // 
-            this.userControl52.Location = new System.Drawing.Point(4, 80);
-            this.userControl52.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
-            this.userControl52.Name = "userControl52";
-            this.userControl52.Size = new System.Drawing.Size(361, 68);
-            this.userControl52.TabIndex = 1;
-            // 
-            // userControl53
-            // 
-            this.userControl53.Location = new System.Drawing.Point(4, 156);
-            this.userControl53.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
-            this.userControl53.Name = "userControl53";
-            this.userControl53.Size = new System.Drawing.Size(361, 68);
-            this.userControl53.TabIndex = 2;
-            // 
-            // userControl54
-            // 
-            this.userControl54.Location = new System.Drawing.Point(4, 232);
-            this.userControl54.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
-            this.userControl54.Name = "userControl54";
-            this.userControl54.Size = new System.Drawing.Size(361, 68);
-            this.userControl54.TabIndex = 3;
+            this.flCT_SanPham.BackColor = System.Drawing.Color.Transparent;
+            this.flCT_SanPham.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.flCT_SanPham.Location = new System.Drawing.Point(0, 0);
+            this.flCT_SanPham.Margin = new System.Windows.Forms.Padding(4);
+            this.flCT_SanPham.Name = "flCT_SanPham";
+            this.flCT_SanPham.Size = new System.Drawing.Size(374, 427);
+            this.flCT_SanPham.TabIndex = 5;
             // 
             // guna2CustomGradientPanel4
             // 
@@ -286,7 +245,7 @@
             this.guna2CustomGradientPanel4.FillColor = System.Drawing.Color.Silver;
             this.guna2CustomGradientPanel4.FillColor2 = System.Drawing.Color.DarkRed;
             this.guna2CustomGradientPanel4.Location = new System.Drawing.Point(0, 427);
-            this.guna2CustomGradientPanel4.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.guna2CustomGradientPanel4.Margin = new System.Windows.Forms.Padding(4);
             this.guna2CustomGradientPanel4.Name = "guna2CustomGradientPanel4";
             this.guna2CustomGradientPanel4.Size = new System.Drawing.Size(374, 58);
             this.guna2CustomGradientPanel4.TabIndex = 4;
@@ -327,7 +286,7 @@
             this.Controls.Add(this.guna2CustomGradientPanel1);
             this.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedToolWindow;
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "ListProduct";
             this.Text = "ListProduct";
             this.Load += new System.EventHandler(this.ListProduct_Load);
@@ -340,7 +299,6 @@
             this.guna2GradientPanel1.ResumeLayout(false);
             this.guna2GradientPanel1.PerformLayout();
             this.guna2CustomGradientPanel3.ResumeLayout(false);
-            this.flowLayoutPanel2.ResumeLayout(false);
             this.guna2CustomGradientPanel4.ResumeLayout(false);
             this.guna2CustomGradientPanel4.PerformLayout();
             this.ResumeLayout(false);
@@ -354,21 +312,17 @@
         private System.Windows.Forms.Panel panel2;
         private System.Windows.Forms.MenuStrip menuStrip1;
         private System.Windows.Forms.ToolStripMenuItem AllProducttion;
-        private System.Windows.Forms.ToolStripMenuItem đồĂnToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem đồUốngToolStripMenuItem;
-        private System.Windows.Forms.FlowLayoutPanel flowLayoutPanel1;
+        private System.Windows.Forms.ToolStripMenuItem menuDoAn;
+        private System.Windows.Forms.ToolStripMenuItem menuDoUong;
+        private System.Windows.Forms.FlowLayoutPanel flSanPham;
         private System.Windows.Forms.Panel panel1;
         private Guna.UI2.WinForms.Guna2Button btnXacNhan;
         private Guna.UI2.WinForms.Guna2CustomGradientPanel guna2CustomGradientPanel3;
-        private System.Windows.Forms.FlowLayoutPanel flowLayoutPanel2;
+        private System.Windows.Forms.FlowLayoutPanel flCT_SanPham;
         private Guna.UI2.WinForms.Guna2CustomGradientPanel guna2CustomGradientPanel4;
         private System.Windows.Forms.Label label18;
         private System.Windows.Forms.Label label17;
         private Guna.UI2.WinForms.Guna2GradientPanel guna2GradientPanel1;
         private System.Windows.Forms.Label label6;
-        private Components.UserControl5 userControl51;
-        private Components.UserControl5 userControl52;
-        private Components.UserControl5 userControl53;
-        private Components.UserControl5 userControl54;
     }
 }

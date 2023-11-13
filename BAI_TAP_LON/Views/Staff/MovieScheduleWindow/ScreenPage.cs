@@ -12,7 +12,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.IO;
-
+using Guna.UI2.WinForms;
 
 namespace BAI_TAP_LON.Views.Staff.MovieScheduleWindow
 {
@@ -26,11 +26,39 @@ namespace BAI_TAP_LON.Views.Staff.MovieScheduleWindow
 
         string ngayChieu = MovieShowtimePage.GetStaticNgayChieu();
         string maNV;
-        string maHD;
+        public static string staticMaHD;
+        private static List<Model.Ve> staticListVe = new List<Model.Ve>();
+
+        // Mức quyền truy cập là internal
+        internal static void AddVe(Model.Ve lv)
+        {
+            staticListVe.Add(lv);
+        }
+        internal static void RemoveVe(Model.Ve lv)
+        {
+            staticListVe.Remove(lv);
+        }
+
+        internal static List<Model.Ve> GetListVe()
+        {
+            return staticListVe;    
+        }
+      
+        public static void SetStaticMaHD(string maHD)
+        {
+            staticMaHD = maHD;
+        }
+
+        // Phương thức để lấy giá trị ngày chiếu từ biến static
+        public static string GetStaticMaHD()
+        {
+            return staticMaHD;
+        }
+
+       
         public ScreenPage()
         {
             InitializeComponent();
-
                        
         }
 		
@@ -57,10 +85,12 @@ namespace BAI_TAP_LON.Views.Staff.MovieScheduleWindow
                         DataRow row = dtGhe.Rows[i];
 
                         listGhe[i].MaGhe = row["MaGhe"].ToString();
+                        listGhe[i].TenGhe = row["TenGhe"].ToString();
                         listGhe[i].MaLichChieu = maLichChieu;
                         listGhe[i].DonGia = double.Parse(row["DonGia"].ToString());
                         listGhe[i].TrangThai = int.Parse(row["TrangThai"].ToString());
                         listGhe[i].setTrangThai(listGhe[i].TrangThai);
+                        listGhe[i].CheckBoxStateChanged += UserControl_CheckBoxStateChanged;
 
                         if (listGhe[i].MaGhe.Contains("8") || listGhe[i].MaGhe.Contains("9"))
                         {
@@ -105,17 +135,18 @@ namespace BAI_TAP_LON.Views.Staff.MovieScheduleWindow
 
                 //insert hóa đơn với MaNV=NV0001 ->>> sau khi gộp lại thì insert với cái tài khoản nhân viên được đăng nhập vào 
                 string maBatDau = "HD" + DateTime.Now.ToString("yyyyMMdd");
-                maHD = func.MaTuSinh("b_HOADON", "MaHD", maBatDau);
+                string maHD = func.MaTuSinh("b_HOADON", "MaHD", maBatDau);
+                SetStaticMaHD(maHD);
                 maNV = "NV0001";
                 string sqlInsertHD = "insert into b_HOADON(MaHD, NgayLap, GiamGia, TongTien, MaNV, MaKH) values ('"+maHD+"','"+DateTime.Now.ToString("yyyy-MM-dd HH:mm")+"',0,0,'"+maNV+"',null)";
-
                 //MessageBox.Show(sqlInsertHD);
                 dtBase.ChangeData(sqlInsertHD);
                 
-
+                
+                
             }
 
-
+            
             this.FormClosing += Form_FormClosing;
         }
 
@@ -127,25 +158,56 @@ namespace BAI_TAP_LON.Views.Staff.MovieScheduleWindow
             if (result == DialogResult.No)
             {
                 e.Cancel = true;
+                
             }
             else
             {
-                string sqlDeleteHD = "delete b_HOADON where MaHD='" + maHD + "'";
-                //MessageBox.Show(sqlDeleteHD);
-                dtBase.ChangeData(sqlDeleteHD);
+                List<Model.Ve> lv = GetListVe();
+                foreach (var ve in lv)
+                {
+                    dtBase.ChangeData("delete b_VE where MaVe=N'" + ve.maVe + "'");
+                }
+                string sqlDeleteHD = "delete b_HOADON where MaHD='" + staticMaHD + "'";     
+                dtBase.ChangeData(sqlDeleteHD);   
+                staticListVe = new List<Model.Ve>();
+
+                
                 
             }
         }
+        private void UserControl_CheckBoxStateChanged(object sender, EventArgs e)
+        {
+            // Gọi phương thức Load_Data trên form khi checkbox thay đổi
+            Load_Data();
+        }
+
 
         private void ScreenPage_Load(object sender, EventArgs e)
 		{
 
+            Load_Data();
 
-		}
+        }
 
+        //hàm load lại dữ liệu
+        public void Load_Data()
+        {
+            lblDSGhe.Text = "";
+            //doc dư lieu bang hoa đơn 
+            DataTable dtHD = dtBase.ReadData("select * from b_HOADON where MaHD='" + staticMaHD + "'");
+            //nếu ghê được chọn : có trang thái 1 thì thêm vào lblDSGhe
+            List<Model.Ve> lv = GetListVe();
+            foreach (var ve in lv)
+            {
+                lblDSGhe.Text += ve.TenGhe + ",";
+            }
+            lblGia.Text = "50000";
+            lblTongTienVe.Text = dtHD.Rows[0]["TongTien"].ToString();
+        }
 		private void btnXacNhan_Click(object sender, EventArgs e)
         {
             ListProduct ls = new ListProduct();
+            ls.StartPosition = FormStartPosition.CenterScreen;
             ls.ShowDialog();
         }
     }
