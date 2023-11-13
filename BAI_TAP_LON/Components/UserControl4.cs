@@ -1,7 +1,11 @@
-﻿using System;
+﻿using BAI_TAP_LON.Model;
+using BAI_TAP_LON.Views.Staff.MovieScheduleWindow;
+using Guna.UI2.WinForms;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
+using System.Data.SqlClient;
 using System.Drawing;
 using System.Linq;
 using System.Runtime.CompilerServices;
@@ -14,12 +18,18 @@ namespace BAI_TAP_LON.Components
 {
     public partial class UserControl4 : UserControl
     {
-
+        Classes.DataProcesser dtBase = new Classes.DataProcesser();
+        Classes.CommonFunctions func =  new Classes.CommonFunctions();
+        string lblDSGhe = "";
+       
         public UserControl4()
         {
             InitializeComponent();
+
             
         }
+        public event EventHandler CheckBoxStateChanged;
+
         public string MaGhe
         {
             get; set;
@@ -36,6 +46,11 @@ namespace BAI_TAP_LON.Components
 
         public int TrangThai { get; set; }
         public double DonGia { get; set; }   
+
+        public Guna2CustomCheckBox Guna2CustomCheckBox 
+        {   get { return gunacheckbChair_Valid; }
+           
+        }
         public void setTrangThai(int trangThai)
         {
             if(trangThai == 1 )
@@ -49,33 +64,60 @@ namespace BAI_TAP_LON.Components
             }
             
         } 
-       
-       
+        
         
         private void gunacheckbChair_Valid_Click(object sender, EventArgs e)
         {
-            //string maVe = 
-            MessageBox.Show("ghee dda duoc chon");
-            string sqlInsertVe = "insert into b_VE(MaVe, MaLichChieu, MaGhe, MaHD) values ('1', '231111P0010800', 'P1A01', 'HD0001')";
-
+            
+            
         }
 
         private void gunacheckbChair_Valid_CheckedChanged(object sender, EventArgs e)
         {
+            string maHD = ScreenPage.GetStaticMaHD();
 
-            if(this.TrangThai == 0) {
+            if (gunacheckbChair_Valid.Checked)
+            {
+                string maBatDau = "VE00";
+                string maVe = func.MaTuSinh("b_VE", "MaVe", maBatDau);
 
-				if (gunacheckbChair_Valid.Checked)
-				{
-					lblMaGhe.BackColor = Color.Lime;
-				}
-				else
-				{
-					lblMaGhe.BackColor = Color.Transparent;
-				}
+                string sqlInsertVe = "INSERT INTO b_VE(MaVe, MaLichChieu, MaGhe, MaHD) VALUES ('" + maVe + "', '" + MaLichChieu + "', '" + MaGhe + "', '" + maHD + "')";
+                Model.Ve ve = new Model.Ve(maVe, MaLichChieu, MaGhe, TenGhe);
+
+                // Thêm vé vào danh sách
+                ScreenPage.AddVe(ve);
+                lblMaGhe.BackColor = Color.Lime;
+                // Thực hiện thêm vé vào database
+                dtBase.ChangeData(sqlInsertVe);
+                
+
             }
-           
-           
+            else
+            {
+                // Truy vấn để lấy mã vé
+                string maVe = dtBase.ReadData("SELECT MaVe FROM b_VE WHERE MaLichChieu=N'" + MaLichChieu + "' AND MaGhe=N'" + MaGhe + "'").Rows[0]["MaVe"].ToString();
+                string sqlDeleteVe = "DELETE FROM b_VE WHERE MaVe='" + maVe + "'";
+                List<Model.Ve> lv = ScreenPage.GetListVe();
+                // Loại bỏ vé khỏi danh sách
+                for(int i=0; i< lv.Count; i++) 
+                {
+                    if (lv[i].maVe == maVe)
+                    {
+                        ScreenPage.RemoveVe(lv[i]);
+                       
+                    }                 
+                }
+                lblMaGhe.BackColor = Color.Transparent;
+               
+
+                // Thực hiện xoá vé khỏi database
+                dtBase.ChangeData(sqlDeleteVe);
+            }
+
+            // Gửi thông báo về sự kiện rằng trạng thái của checkbox đã thay đổi
+            CheckBoxStateChanged?.Invoke(this, EventArgs.Empty);
         }
+
+
     }
 }
